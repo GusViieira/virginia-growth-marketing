@@ -1,0 +1,4 @@
+interface:
+  display_name: "Virginia Growth Marketing"
+  short_description: "Turn attention into distribution, community, demand, and revenue."
+  default_prompt: "Use Virginia Growth Marketing to design a product-appropriate growth strategy, focusing on attention, proof, distribution, conversion, retention, and community."
